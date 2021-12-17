@@ -1,3 +1,6 @@
 *.psd
 /doc
 /test
+*.ipynb
+*.md
+*.pdf
